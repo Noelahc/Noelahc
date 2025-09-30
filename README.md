@@ -1,4 +1,16 @@
-## Hi there 👋
+# Haiiiii :3
+
+I'm Chaleon, currently reading MSc Stats (Biostats) at ICL after doing my Math & Stats undergrad in ICL. Here you'll find my *gradual descent into insanity*.
+
+To recover my sanity, I often turn back to my notes or engage in a few hobbies:
+1. Bridge
+2. Mahjong (Riichi)
+3. Specific musical numbers
+
+My goal is to make the world and society happier, here's a [start](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
+
+
+
 
 <!--
 **Noelahc/Noelahc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
