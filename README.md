@@ -11,4 +11,4 @@ My goal is to make the world and society happier, here's a [start](https://www.y
 
 Link to [ICL MSc Stats](https://www.imperial.ac.uk/study/courses/postgraduate-taught/statistics/)
 
-Last Updated: 30 02 2025
+Last Updated: 30 Sept 2025
