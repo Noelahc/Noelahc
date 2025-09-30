@@ -10,3 +10,5 @@ To recover my sanity, I often turn back to my notes or engage in a few hobbies:
 My goal is to make the world and society happier, here's a [start](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
 
 Link to [ICL MSc Stats](https://www.imperial.ac.uk/study/courses/postgraduate-taught/statistics/)
+
+Last Updated: 30 02 2025
