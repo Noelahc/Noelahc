@@ -1,4 +1,4 @@
-# Haiiiiiuuuu :3
+# Haiiiii :3
 
 I'm Chaleon, currently reading MSc Stats (Biostats) at ICL after doing my Math & Stats undergrad in ICL. Here you'll find my _gradual descent into insanity_.
 
